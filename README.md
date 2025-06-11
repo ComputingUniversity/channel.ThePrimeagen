@@ -9,3 +9,6 @@ https://www.youtube.com/@ThePrimeTimeagen
 
 # "Negative Space Programming"
 - [This Is A Game Changer](https://www.youtube.com/shorts/M-VU0fLjIUU?feature=share)
+
+# Go Language
+- [HARD truths before switching to Go](https://youtu.be/yXMjeRXglGc)
