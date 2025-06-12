@@ -8,7 +8,6 @@ https://www.youtube.com/@ThePrimeTimeagen
 - [How am I suppose to get a job as a software engineer?](https://youtu.be/nmhX3_m84Is)
 
 # Language:
-- [Picking A Language In 2025](https://youtu.be/xTgO6PpMnhk)
 
 ## List:
 - [ThePrimeagen's top 5 programming languages | Lex Fridman Podcast Clips](https://youtu.be/522n1GW-4nM)
