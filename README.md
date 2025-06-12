@@ -7,8 +7,14 @@ https://www.youtube.com/@ThePrimeTimeagen
 - [5 Things I Hate About JavaScript](https://youtu.be/14jlIxVrcvo)
 - [How am I suppose to get a job as a software engineer?](https://youtu.be/nmhX3_m84Is)
 
+# Language:
+- [Picking A Language In 2025](https://youtu.be/xTgO6PpMnhk)
+
+## Rust
+- [Rust programming language explained | ThePrimeagen and Lex Fridman](https://youtu.be/cA7flwaBiC0)
+
+## Go Language
+- [HARD truths before switching to Go](https://youtu.be/yXMjeRXglGc)
+
 # "Negative Space Programming"
 - [This Is A Game Changer](https://www.youtube.com/shorts/M-VU0fLjIUU?feature=share)
-
-# Go Language
-- [HARD truths before switching to Go](https://youtu.be/yXMjeRXglGc)
