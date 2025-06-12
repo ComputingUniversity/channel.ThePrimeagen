@@ -10,6 +10,10 @@ https://www.youtube.com/@ThePrimeTimeagen
 # Language:
 - [Picking A Language In 2025](https://youtu.be/xTgO6PpMnhk)
 
+## List:
+- [ThePrimeagen's top 5 programming languages | Lex Fridman Podcast Clips](https://youtu.be/522n1GW-4nM)
+- [Best programming languages in 2025 | ThePrimeagen and Lex Fridman](https://youtu.be/SvAjpxfuYyY)
+
 ## Rust
 - [Rust programming language explained | ThePrimeagen and Lex Fridman](https://youtu.be/cA7flwaBiC0)
 
@@ -18,3 +22,6 @@ https://www.youtube.com/@ThePrimeTimeagen
 
 # "Negative Space Programming"
 - [This Is A Game Changer](https://www.youtube.com/shorts/M-VU0fLjIUU?feature=share)
+
+# Interview:
+- [ThePrimeagen: Programming, AI, ADHD, Productivity, Addiction, and God | Lex Fridman Podcast #461](https://youtu.be/tNZnLkRBYA8)
