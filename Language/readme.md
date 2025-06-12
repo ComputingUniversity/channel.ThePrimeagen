@@ -1,0 +1,1 @@
+- [Picking A Language In 2025](https://youtu.be/xTgO6PpMnhk)
